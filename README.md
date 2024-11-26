@@ -1,9 +1,9 @@
 # Titanic-kaggle
-Starter notebook for the Kaggle Titanic competition: focus on handling missing data, feature analysis, and building a streamlined workflow.
+Starter notebook for the [Kaggle Titanic competition](https://www.kaggle.com/competitions/titanic): focus on handling missing data, feature analysis, and building a streamlined workflow.
 
 ## Initial Exploring
 - The first time I approached this problem, I performed some normal data cleaning and feature engineering and fitted 3 models(logistic regression, random forest, XGBoost), achieving 82% validation accuracy and 77% test accuracy.
-- The key is focusing on handling missing data, building a streamlined workflow, and analyzing and processing various features.
+- The key is focusing on handling **missing data**, building a **streamlined workflow**, and **analyzing and processing various features**.
 
 ## General findings
 - **Interpretability VS Accuracy:** While improving prediction accuracy is useful, for a historically significant event like the Titanic, interpretability takes precedence over accuracy.
